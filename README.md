@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 3d desgine
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me:
-Discord:Gover#0008
+Discord:sid ahmad#6149
 
 <!---
 ahmadmaatar/ahmadmaatar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
